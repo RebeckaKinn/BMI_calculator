@@ -1,0 +1,15 @@
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\bin\Debug\net6.0\BMI-calculator.exe
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\bin\Debug\net6.0\BMI-calculator.deps.json
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\bin\Debug\net6.0\BMI-calculator.runtimeconfig.json
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\bin\Debug\net6.0\BMI-calculator.dll
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\bin\Debug\net6.0\BMI-calculator.pdb
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.csproj.AssemblyReference.cache
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.AssemblyInfoInputs.cache
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.AssemblyInfo.cs
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.csproj.CoreCompileInputs.cache
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.dll
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\refint\BMI-calculator.dll
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.pdb
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\BMI-calculator.genruntimeconfig.cache
+C:\Users\becka\OneDrive\Dokumenter\GET\Get_It\BMI-calculator\BMI-calculator\obj\Debug\net6.0\ref\BMI-calculator.dll
